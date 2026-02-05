@@ -1,6 +1,4 @@
-# week1-git-lab
--Lab 1 Assignment for CSC4631
--Which an introduction to Git and GitHub
--And also an intro to software maintenance
-## Enjoy!! 
--My name is SMT! 
+## week1-git-lab Assignment for CSC4631
+### Group Members
+-Samson Mwale - 2022052196
+-Nathan Sachitembe - 2022090446
